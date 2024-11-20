@@ -42,7 +42,7 @@ cd employee-task-management
 ```
 ### go to folder
 ```bash
-cd Employee_task
+cd EmployeeTaskManagement
 ```
 ### install Dependencies
 ```bash
